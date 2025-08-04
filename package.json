@@ -1,0 +1,23 @@
+{
+  "name": "ai-terminal-chess",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/adarshrkumar/AI-Terminal-Chess#readme",
+  "bugs": {
+    "url": "https://github.com/adarshrkumar/AI-Terminal-Chess/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshrkumar/AI-Terminal-Chess.git"
+  },
+  "license": "ISC",
+  "author": "Adarsh R. Kumar (adarshrkumar)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1"
+  }
+}
